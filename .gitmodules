@@ -1,0 +1,9 @@
+[submodule "dsci304-final-R-source"]
+	path = dsci304-final-R-source
+	url = https://github.com/jacomjos/dsci304-final-R-source
+[submodule "dsci304-final-mufc-analysis-site"]
+	path = dsci304-final-mufc-analysis-site
+	url = https://github.com/jacomjos/dsci304-final-mufc-analysis-site
+[submodule "dsci304-final-ts-source"]
+	path = dsci304-final-ts-source
+	url = https://github.com/jacomjos/dsci304-final-ts-source
