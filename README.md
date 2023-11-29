@@ -1,0 +1,3 @@
+The sole purpose of this repository is to link together all 3 repositories that make up my final project for DSCI 304 Data Visualization at Rice University.
+
+The R and React source code repos are intentionally private, as the source code was written for the sole purpose of completing an assignment for a Rice University course, and therefore making these repos public would violate the Honor Code (as far as I know). Since the webpage needs to be hosted somewhere, and I kinda wanted to do some rudimentary Web Dev, I used GitHub pages, which need the repo that contains the deployment to be public. All code in the `dsci304-final-mufc-analysis-site` repo was generated using GitHub Pages and Babel (used to transpile React to HTML/CSS/JS).
