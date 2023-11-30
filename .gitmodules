@@ -1,9 +1,15 @@
 [submodule "dsci304-final-R-source"]
-	path = dsci304-final-R-source
+	path = R
 	url = https://github.com/jacomjos/dsci304-final-R-source
 [submodule "dsci304-final-mufc-analysis-site"]
 	path = dsci304-final-mufc-analysis-site
 	url = https://github.com/jacomjos/dsci304-final-mufc-analysis-site
 [submodule "dsci304-final-ts-source"]
-	path = dsci304-final-ts-source
+	path = ReactJS
 	url = https://github.com/jacomjos/dsci304-final-ts-source
+[submodule "R"]
+	path = R
+	url = https://github.com/jacomjos/dsci304-final-R-source.git
+[submodule "ReactJS"]
+	path = ReactJS
+	url = https://github.com/jacomjos/dsci304-final-ts-source.git
